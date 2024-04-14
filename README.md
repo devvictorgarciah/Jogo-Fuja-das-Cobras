@@ -27,6 +27,10 @@ Desafios: Tente coletar o máximo de moedas possíveis em cada partida para alca
 
 # Prints da interface do jogo
 
+## Foto menu do jogo
+![Captura de tela 2024-04-14 002353](https://github.com/devvictorgarciah/Jogo-Fuja-das-Cobras/assets/165446962/0ab76cd6-a7e3-41dc-ad42-5e41f723092a)
+
+## Foto gameplay
 ![WhatsApp Image 2024-04-14 at 00 12 56](https://github.com/devvictorgarciah/Jogo-Fuja-das-Cobras/assets/165446962/9a4d8acd-acd5-4aac-87f9-4b4564542bf0)
 
 # Print bamco de dados 
