@@ -27,3 +27,13 @@ Desafios: Tente coletar o máximo de moedas possíveis em cada partida para alca
 
 # Prints da interface do jogo
 
+![WhatsApp Image 2024-04-14 at 00 12 56](https://github.com/devvictorgarciah/Jogo-Fuja-das-Cobras/assets/165446962/9a4d8acd-acd5-4aac-87f9-4b4564542bf0)
+
+# Print bamco de dados 
+
+![Captura de tela 2024-04-14 001756](https://github.com/devvictorgarciah/Jogo-Fuja-das-Cobras/assets/165446962/42bf86a2-8eaf-4afb-a68e-765db399098d)
+
+## Autor
+Victor Hugo Garcia
+
+
